@@ -1,2 +1,8 @@
 
 Geolife Trajectories 1\.3/
+
+metastore_db/
+
+\.ipynb_checkpoints/
+
+derby\.log
